@@ -3,4 +3,4 @@
 Happy New Year!^ ^
 
 ![Happy New Year]
-(happynewyear2016.png)
+(/img/happynewyear2016.png)
